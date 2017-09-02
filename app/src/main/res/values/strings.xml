@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lugares Murcia</string>
+    <string name="errorLoadingPlaces">Ha ocurrido un error cargando los lugares</string>
+</resources>
